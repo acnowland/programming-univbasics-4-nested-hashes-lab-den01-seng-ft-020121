@@ -88,7 +88,7 @@ def adding_matz
     programmer_hash[:yukihiro_matsumoto] = {}
     programmer_hash[:yukihiro_matsumoto][:know_for] = "Unix"
     programmer_hash[:yukihiro_matsumoto][:languages] = ["LISP", "C"]
-    programmer_hash
+    puts programmer_hash
 
 end
 # :yukihiro_matsumoto => {
